@@ -6,4 +6,4 @@ zuul:
     api-b:
       path: /api-b/**
       serviceId: service-feign
-foo = foo version 3
+foo: foo version 3
