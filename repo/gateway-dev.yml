@@ -5,5 +5,5 @@ zuul:
       serviceId: gateway
     api-b:
       path: /api-b/**
-      serviceId: service-feign
+      serviceId: test
 foo: foo version 3
