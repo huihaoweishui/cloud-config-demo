@@ -10,5 +10,5 @@ zuul:
 api-params:
     serviceList[0]:
         name: 测试服务
-        location: /basedata/v2/api-docs
+        location: /test/v2/api-docs
    
