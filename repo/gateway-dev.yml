@@ -8,7 +8,7 @@ zuul:
       serviceId: test
 # swagger配置 
 api-params:
-    serviceList[0]:
+    services[0]:
         name: 测试服务
         location: /test/v2/api-docs
    
