@@ -6,4 +6,9 @@ zuul:
     api-b:
       path: /api-b/**
       serviceId: test
-foo: foo version 3
+# swagger配置 
+api-params:
+    serviceList[0]:
+        name: 测试服务
+        location: /basedata/v2/api-docs
+   
