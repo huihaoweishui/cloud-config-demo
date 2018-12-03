@@ -6,6 +6,9 @@ zuul:
     api-b:
       path: /api-b/**
       serviceId: test
+    api-urm
+      path: /api-urm/**
+      serviceId: urm-server
 # swagger配置 注意yaml语法规则 在GitHub中（即当前界面）可以从字体颜色看出是否正确，还有注意冒号： :
 api-params:
   services:
