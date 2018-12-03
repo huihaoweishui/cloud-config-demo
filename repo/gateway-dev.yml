@@ -15,5 +15,5 @@ api-params:
     - name: 测试服务
       location: /test/v2/api-docs
     - name: urm服务
-      location: /urm/v2/api-docs
+      location: /api-urm/v2/api-docs
    
